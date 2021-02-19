@@ -1,0 +1,26 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducpt172483/learn-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "author": "duc-pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducpt172483/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/ducpt172483/learn-typescript#readme",
+  "dependencies": {
+    "typescript": "^4.1.5"
+  }
+}
